@@ -1,1 +1,2 @@
 # Road_Crack_Segementation
+Deep learning model for crack segmentation on road. In this article, I describe the approaches, dataset that I exprimented with and desmonstrate the result. My approach is based on the UNet network with transfer learning on the two popular architectures: VGG16 and Resnet101. The result shows that a large crack segmentation dataset helps improve the performance of the model in diverse cases that could happen in practice.
